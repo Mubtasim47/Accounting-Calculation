@@ -21,7 +21,7 @@ int main() {
     cout << "5. CALCULATE ALL" << endl;
     cout << "\nSELECT AN OPTION :" << endl;
 
-    //set precision point according to needs
+    //set precision point according to the needs
     cout << fixed << setprecision(0);
 
     int choice;
